@@ -24,7 +24,7 @@ jobs:
     - uses: actions/setup-node@v1.1.0
       
     # Markdown check
-    - name: Markdown check
+    - name: Check markdown
       run: |
         npm install --quiet --global remark-cli remark-validate-links  &> /dev/null
         remark -f -q -u validate-links .
