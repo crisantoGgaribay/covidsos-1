@@ -1,8 +1,6 @@
 ---
-id: pruse_protective_rc2
 name: Prusa Protective Face Shield - RC2
 summary: Prusa Face Shield RC2
-link: https://www.prusaprinters.org/prints/25857-protective-face-shield-
 tools:
   - ender_3
 materials:
@@ -10,7 +8,7 @@ materials:
   - esun_hips_black_175_mm
   - abs_esun_white_285_mm
 file: files/example.stl
-picture: images/twitter_cover.png
+picture: ./img/twitter_cover.png
 ---
 
 # Prusa Protective Face Shield - RC2
@@ -24,3 +22,7 @@ Prusa Protective Face Shield
 Instrucciones más precisas.
 
 Esterilizar bien el material
+
+<youtube>https://www.youtube.com/watch?v=8g5iRiw35KI</youtube>
+
+<loom>https://www.loom.com/share/4b22f317973649e3a4a49f625b1b1c87</loom>
