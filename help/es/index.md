@@ -4,7 +4,7 @@
 
 Por el momento tenemos un equipo suficiente (30 personas) a cargo de la ingeniería pero hay cuatro formas en las que puedes ayudar por el momento:
 
-Mándanos un correo a [hola@covidsos.mx] si consideras que puedes ayudar **SERIAMENTE** con lo siguiente:
+Mándanos un correo a hola@covidsos.mx si consideras que puedes ayudar **SERIAMENTE** con lo siguiente:
 
 ## Escribiendo
 
