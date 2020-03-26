@@ -1,7 +1,9 @@
 ---
 id: mascara_protectora
 name: Máscara Protectora
-summary: Máscara protectora en lámina de PVC
+summary: Máscara protectora en lámina de PVC sugerida por el grupo
+ Coronavirus Maker México
+picture: ./img/modelo-finalizado.png
 link: https://www.coronavirusmakers.org/index.php/es/impresion-3d/viseras
 tools:
   - ender_3
@@ -11,26 +13,35 @@ materials:
   - correa_trasera
 ---
 
-# Introducción
+# Máscara Protectora
+
+Diseño original de [Hanoch Hemmerich](https://www.thingiverse.com/thing:4233193).
+
+El objetivo de esta equipamiento no es una solución para evitar contagios, sino
+ alargar la vida de los sistemas EPI homologados del personal sanitario y no sanitario que se halla frente a posibles portadores o infectados, que ya es facilitado por el departamento de Riesgos Laborales de sus respectivas organizaciones.
 
 El siguiente manual explica el procedimiento por el cual se realiza la fabricación mediante FDM y el posterior ensamblaje de las máscaras de protección diseñadas por la comunidad Coronavirus Maker en España dentro de la crisis de COVID-19.
 
-Los dispositivos constan de 2 partes
+Los dispositivos constan de 2 partes:
 
-1. La sujeción (impresa en PLA)
-2. Lámina de protección (lámina de PVC)
+1. La base sujetadora
 
-El autor del diseño es Hanoch Hemmerich.
+2. Pantalla de protección
 
-El objetivo de esta ayuda no es una solución para evitar contagios, sino que su finalidad es alargar la vida de los sistemas EPI homologados del personal sanitario y no sanitario que se halla frente a posibles portadores o infectados, que ya es facilitado por el departamento de Riesgos Laborales de sus respectivas organizaciones.
+## Base sujetadora
 
-La lamina utilizada es de PVC de tamaño DINA4 y colocada en formato apaisado (horizontal) con el objetivo de cubrir la cara lo más ampliamente posible.
+La lamina utilizada es de PVC de tamaño DINA4 y colocada en formato apaisado
+ -horizontal- con el objetivo de cubrir la cara lo más ampliamente posible.
 
 El sistema de colocación está diseñado para que sea fácil y rápido de colocar y retirar. Así mismo, este sistema permite su ajuste según el perímetro craneal de cada individuo. Adicionalmente, el presente dispositivo, dispone de 2 ranuras que evitan la formación de vaho por el usuario al respirar, garantizando la máxima visibilidad en todo momento.
 
-Por motivos de bioseguridad, y siguiendo la normativa, este sistema está diseñado para un solo uso. No obstante, puede ser desinfectados mediante métodos químicos bajo el criterio del equipo de Riesgos Laborales. En ningún caso debe esterilizarse por métodos físicos o químicos. En caso de requerir su desinfección, se ha testado con una solución acuosa de hipoclorito sódico al 5%.
+> Por motivos de bioseguridad, y siguiendo la normativa, este sistema est
+>á diseñado para **un solo uso**. No obstante, puede ser desinfectados mediante
+> métodos químicos bajo el criterio del equipo de riesgos Laborales. En ningún caso debe esterilizarse por métodos físicos. En caso de requerir su desinfección, se ha probado con una solución acuosa de hipoclorito sódico al 5%.
 
 Desde Coronavirus Maker insistimos que es criterio del centro la reutilización del dispositivo. Este equipo está diseñado para usar y tirar, a pesar de ser material reciclable.
+
+<gallery>
 
 ![Renderizado con guías](./img/renderizado-con-guías.png)
 
@@ -42,19 +53,9 @@ Desde Coronavirus Maker insistimos que es criterio del centro la reutilización 
 
 ![Renderizado parte superior](./img/renderizado-parte-superior.png)
 
-# Materiales
+</gallery>
 
-Los siguientes enlaces solo son una referencia del material utilizado para la elaboración de las pantallas protectoras.
-
-- Lamina frontal
-    - Láminas de PVC tamaño DINA4
-        - Opcionalmente:
-            - Láminas de acetato de 180 o 240 micras.
-            - Laminas PET de 400 micras o Goma elástica o similar
-- Correa posterior
-    - Goma elástica o similar
-
-# Parámetros de impresión
+### Parámetros de impresión
 
 El archivo para su impresión se puede descargar desde el siguiente enlace **TEMPORAL**:
 
@@ -70,22 +71,47 @@ Los parámetros de impresión solo son una guía de referencia, dado que cada im
 - Capas inferiores: 2
 - Flujo: 80%
 - Sin soportes
-- Velocidad de impresión:
-    - Perímetros: 80mm/s
-    - Perímetros pequeños: 80mm/s o Perímetros externos: 80mms/s o Relleno: 80mms/s
-    - Relleno solido: 80mms/s
-    - Relleno solido superior: 80mm/s o Puentes: 80mm/s
-    - Relleno: 80mm/s
-    - Recorrido: 180mm/s
-    - Correa posterior
+
+
+### Velocidad de impresión
+
+- Perímetros: 80mm/s
+- Perímetros pequeños: 80mm/s o Perímetros externos: 80mms/s o Relleno: 80mms/s
+- Relleno solido: 80mms/s
+- Relleno solido superior: 80mm/s o Puentes: 80mm/s
+- Relleno: 80mm/s
+- Recorrido: 180mm/s
+- Correa posterior
+
+Aquí un ejemplo de la configuración con el software Prusaslicer
 
 ![Velocidad para movimientos de impresión](./img/velocidad-para-movimientos-de-impresión.png)
 
-- La imagen anterior corresponde con el software Prusaslicer
+<youtube>https://www.youtube.com/watch?v=-qgPFCNbpu0</youtube>
 
-### Material impresión: PLA
+### Impresión
 
 ![Acomodo de piezas](./img/acomodo-de-piezas.png)
+
+## Pantalla de protección
+
+### Materiales
+
+Los siguientes enlaces solo son una referencia del material utilizado para la elaboración de las pantallas protectoras.
+
+### Lamina frontal
+
+- Láminas de PVC tamaño DINA4
+
+Opcionalmente:
+
+ - Láminas de acetato de 180 o 240 micras.
+ - Laminas PET de 400 micras o Goma elástica o similar
+ 
+### Correa posterior
+
+- Correa posterior
+- Goma elástica o similar
 
 ## Ensamblaje de la máscara
 
@@ -97,9 +123,13 @@ Se puede acceder a él a través del siguiente enlace:
 Una vez terminada la impresión pasamos a ejecutar los siguientes puntos para su
 ensamblaje.
 
+<gallery>
+
 ![Modelo impreso lado](./img/modelo-impreso-lado.png)
 
 ![Modelo impreso frente](./img/modelo-impreso-frente.png)
+
+</gallery>
 
 ### Montaje correa trasera
 
@@ -112,9 +142,13 @@ Para el montaje de la correa trasera en este caso se ha elegido goma elástica.
 3. Realizamos un nudo en la misa para que no se salga al ponerse la visera
 4. Repetimos el proceso con la otra patilla
 
+<gallery>
+
 ![Realizar nudo](./img/realizar-nudo.png)
 
 ![Goma elástica instalada](./img/goma-elástica-instalada.png)
+
+</gallery>
 
 ### Montaje lamina protectora
 
@@ -126,6 +160,8 @@ Para el montaje de la lámina protectora vamos a utilizar una hoja de PVC tamañ
 4. Seguir introduciendo el resto de la lámina hasta que quede completamente dentro de la diadema
 5. Una vez introducida por completo bajamos la parte exterior de la diadema para que queda la lámina bien fijada
 
+<gallery>
+
 ![Separación de parte exterior](./img/separación-de-parte-exterior-visera.png)
 
 ![Introducción de lámina en la visera](./img/introducción-de-lamina-en-visera.png)
@@ -136,7 +172,9 @@ Para el montaje de la lámina protectora vamos a utilizar una hoja de PVC tamañ
 
 ![Bajar parte exterior para fijar](./img/bajar-parte-exterior-para-fijar.png)
 
-### Vista modelo finalizado
+</gallery>
+
+## Modelo finalizado
 
 ![Modelo finalizado](./img/modelo-finalizado.png)
 
