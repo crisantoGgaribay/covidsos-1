@@ -106,7 +106,7 @@ Los siguientes enlaces solo son una referencia del material utilizado para la el
 Opcionalmente:
 
  - Láminas de acetato de 180 o 240 micras.
- - Laminas PET de 400 micras o Goma elástica o similar
+ - Laminas PET de 400 micras o Goma elástica o similar.
  
 ### Correa posterior
 
