@@ -154,11 +154,11 @@ Para el montaje de la correa trasera en este caso se ha elegido goma elástica.
 
 Para el montaje de la lámina protectora vamos a utilizar una hoja de PVC tamaño DINA4. En caso de usar láminas de acetato, se pueden usar láminas de 180 micras o de 240 micras, siendo estas ultimas preferibles sobre las de menos gramaje.
 
-1. Colocar la lámina de forma horizontal
-2. Separamos la parte exterior de la visera como se muestra en la siguiente imagen
-3. Introducir la lámina en la hendidura de la diadema frontal
-4. Seguir introduciendo el resto de la lámina hasta que quede completamente dentro de la diadema
-5. Una vez introducida por completo bajamos la parte exterior de la diadema para que queda la lámina bien fijada
+1. Colocar la lámina de forma horizontal.
+2. Separamos la parte exterior de la visera como se muestra en la siguiente imagen.
+3. Introducir la lámina en la hendidura de la diadema frontal.
+4. Seguir introduciendo el resto de la lámina hasta que quede completamente dentro de la diadema.
+5. Una vez introducida por completo bajamos la parte exterior de la diadema para que queda la lámina bien fijada.
 
 <gallery>
 
