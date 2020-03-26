@@ -1,3 +1,5 @@
+![COVIDSOS](./como-ayudar.png)
+
 # ¿Cómo ayudar?
 
 ## Escribiendo
