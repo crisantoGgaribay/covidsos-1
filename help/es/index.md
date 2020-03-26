@@ -13,3 +13,12 @@ Se requiere juntar y clasificar la mayor cantidad de información sobre la fabri
 Se requieren personas con el conocimiento y la energía para revisar y filtrar las entradas y correcciones hechas por personas del mundo entero, limpiando y clasificando datos que permitirán tener una fuente confiable de información que podrá ser utilizada para otros medios aún no definidos. 
 
 La labor de los revisores es igual o más importante que la de los escritores ya que no debemos olvidar que lo que se busca distribuir es equipo médico con las especificaciones y calidad necesarias para soportar las extenuantes y peligrosas condiciones a las que será expuesto.
+
+
+## Traduciendo
+
+Se requieren traductores que mantengan **de alguna forma** todo actualizado y al día en cualquier idioma o dialecto. ¡LITERALMENTE!
+
+## Administrando el repositorio
+
+Se requieren *un par* de personas con el conocimiento avanzado en github para moderar lo que podría convertirse en una locura.
